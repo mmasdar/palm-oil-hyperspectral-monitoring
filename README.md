@@ -11,9 +11,5 @@ https://github.com/vanna-ai/vanna/assets/7146154/1901f47a-515d-4982-af50-f12761a
 
 
 
-https://github.com/mmasdar/palm-oil-hyperspectral-monitoring/assets/51571289/1200a7bb-94f0-41f6-bc31-0937540fb9dd
+https://github.com/mmasdar/palm-oil-hyperspectral-monitoring/assets/51571289/30540103-54e0-497a-983f-e5439d15feee
 
-
-
-
-![PCA_Multispectral](https://github.com/mmasdar/palm-oil-hyperspectral-monitoring/assets/51571289/28d95dbf-ed9d-4425-92ee-855f75e87f9a)
