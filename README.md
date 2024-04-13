@@ -20,6 +20,9 @@ https://github.com/mmasdar/palm-oil-hyperspectral-monitoring/assets/51571289/854
 
 ![Desain_Sawit_Monitoring_Tab_2](https://github.com/mmasdar/palm-oil-hyperspectral-monitoring/assets/51571289/c3687ae3-ee82-4fb6-85de-b2ec91a98b35)
 
-![download](https://github.com/mmasdar/palm-oil-hyperspectral-monitoring/assets/51571289/c40bcc93-2ad7-4f7d-af91-5b35e15fc96b)
+![RGB Chart](https://github.com/mmasdar/palm-oil-hyperspectral-monitoring/assets/51571289/6bac42d6-c7c2-4ec8-8212-a25a2af4af44)
 
 https://github.com/mmasdar/palm-oil-hyperspectral-monitoring/assets/51571289/30540103-54e0-497a-983f-e5439d15feee
+
+
+[palmoil.pdf](https://github.com/mmasdar/palm-oil-hyperspectral-monitoring/files/14964804/palmoil.pdf)
