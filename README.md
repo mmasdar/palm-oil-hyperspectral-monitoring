@@ -7,9 +7,6 @@ Vanna is an MIT-licensed open-source Python RAG (Retrieval-Augmented Generation)
 
 
 
-
-
-
 ![Desain_Sawit_Monitoring_Tab_1](https://github.com/mmasdar/palm-oil-hyperspectral-monitoring/assets/51571289/44b853fe-c272-4977-bd2a-9ab7d51d1a5d)
 
 ![channel_value_all_band](https://github.com/mmasdar/palm-oil-hyperspectral-monitoring/assets/51571289/b84a87d5-7566-4e18-a04e-c558da6de80a)
@@ -24,5 +21,3 @@ https://github.com/mmasdar/palm-oil-hyperspectral-monitoring/assets/51571289/854
 
 https://github.com/mmasdar/palm-oil-hyperspectral-monitoring/assets/51571289/30540103-54e0-497a-983f-e5439d15feee
 
-
-[palmoil.pdf](https://github.com/mmasdar/palm-oil-hyperspectral-monitoring/files/14964804/palmoil.pdf)
